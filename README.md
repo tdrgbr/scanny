@@ -1,4 +1,5 @@
-# Scanny
+<img width="831" height="876" alt="icon" src="https://github.com/user-attachments/assets/b15ab4f3-a0c3-49ba-a381-d1044879bab1" />
+#Scanny
 
 GitHub: https://github.com/tdrgbr/scanny
 
