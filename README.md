@@ -44,6 +44,5 @@ Scanny is a vehicle monitoring mobile app built with React Native, TypeScript, a
 ![1000066010](https://github.com/user-attachments/assets/40a53b17-72c9-4423-ae00-f87666081a6d)
 ![1000066005](https://github.com/user-attachments/assets/ebc70c2f-6cb3-486e-8e9a-90710e57e7a9)
 ![1000066021](https://github.com/user-attachments/assets/7c3aba10-dde8-499c-93cb-77023ddfcd5b)
-https://github.com/user-attachments/assets/b6b3b654-7e11-49eb-b0be-f1676c7b4d86
 
 
